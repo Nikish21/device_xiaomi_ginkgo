@@ -246,6 +246,10 @@ PRODUCT_PACKAGES += \
     ims-ext-common \
     ims_ext_common.xml
 
+# JamesDSP
+PRODUCT_PACKAGES += \
+    JamesDSPManager
+
 # Radio
 PRODUCT_PACKAGES += \
     qti-telephony-hidl-wrapper \
